@@ -1,7 +1,7 @@
 ## 　　Lesson31.　NatureRemoでダイソン空気清浄機を使う
 #### 開発メモというかカスタマイズ方法
 ワークフロー
-<Br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127758072-3f8e398d-e1a1-4c53-b16f-320183d1dfc6.png">
+<Br><img width="600" src="https://user-images.githubusercontent.com/40127279/127758072-3f8e398d-e1a1-4c53-b16f-320183d1dfc6.png">
 ### 1.仕組み
 　[NatureRemoのAPI](https://developer.nature.global)がhttpsで準備されています
 <br>　httpsでアクセスできるので、シェルスクリプトからはcURLでコーディングします
